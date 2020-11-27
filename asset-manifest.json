@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/oncochain/static/css/main.6d6b06d9.chunk.css",
+    "main.js": "/oncochain/static/js/main.d903eb85.chunk.js",
+    "main.js.map": "/oncochain/static/js/main.d903eb85.chunk.js.map",
+    "runtime-main.js": "/oncochain/static/js/runtime-main.76441fe9.js",
+    "runtime-main.js.map": "/oncochain/static/js/runtime-main.76441fe9.js.map",
+    "static/css/2.b19d34e6.chunk.css": "/oncochain/static/css/2.b19d34e6.chunk.css",
+    "static/js/2.65fe4433.chunk.js": "/oncochain/static/js/2.65fe4433.chunk.js",
+    "static/js/2.65fe4433.chunk.js.map": "/oncochain/static/js/2.65fe4433.chunk.js.map",
+    "static/js/3.7cd1fde8.chunk.js": "/oncochain/static/js/3.7cd1fde8.chunk.js",
+    "static/js/3.7cd1fde8.chunk.js.map": "/oncochain/static/js/3.7cd1fde8.chunk.js.map",
+    "index.html": "/oncochain/index.html",
+    "static/css/2.b19d34e6.chunk.css.map": "/oncochain/static/css/2.b19d34e6.chunk.css.map",
+    "static/css/main.6d6b06d9.chunk.css.map": "/oncochain/static/css/main.6d6b06d9.chunk.css.map",
+    "static/js/2.65fe4433.chunk.js.LICENSE.txt": "/oncochain/static/js/2.65fe4433.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/oncochain/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/header.module.css": "/oncochain/static/media/header.82a68332.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76441fe9.js",
+    "static/css/2.b19d34e6.chunk.css",
+    "static/js/2.65fe4433.chunk.js",
+    "static/css/main.6d6b06d9.chunk.css",
+    "static/js/main.d903eb85.chunk.js"
+  ]
+}
